@@ -1,7 +1,7 @@
 # A simple program to generate a unique club name.
 print("Welcome to Club Name Generator!")
 
-# Ask the user for the city they grw up in and storing the response in a variable.
+# Ask the user for the city they grew up in and storing the response in a variable.
 user_city = input("What's the name of the city you grew up in?\n")
 
 # Ask the user for their pet and storing the response in a variable.
